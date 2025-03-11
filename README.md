@@ -2,18 +2,24 @@
 - 🎓 I am a Computer Science Engineering student at the **University of Ioannina**.
 - 🏀 I love playing basketball and reading books in my free time.
 - 💡 I am involved in Software Engineering, SQL queries and Database structures.
-- 🌱 I’m currently working on a Software Engineering project.
+- 🌱 I’m currently working on a **Software Engineering project** and a **Compiler Development project**.  
 
 
 
 ## 🚀 Skills & Technologies
-- 💻 **Languages**: C++, Java, Haskell, SQL
-- 🖥 **Tools & Frameworks**: OpenGL, MySQL Workbench, SQLite, Visual Studio, Git
-- 🔢 **Mathematical Interests**: Computational Mathematics, Algorithm Optimization
+- 💻 **Languages**: C, Java, Python, SQL, Assembly
+- 🖥 **Tools & Frameworks**: Notepad++, MySQL Workbench, SQLite, Visual Studio
+- 🔢 **Mathematical Knowledge**:  
+  - Probability Theory  
+  - Calculus  
+  - Discrete Mathematics  
+  - Linear Algebra
+-🔌 **Hardware Knowledge**:  
+  - Digital Design & Logic Circuits  
+  - Basic Electronics & Circuit Principles
 
 ## 🌍 Connect with me
-- 📫 Email: **your.email@example.com**  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- 📫 Email: **pbasouk@gmail.com**   
 - 🔗 GitHub: [PavlosMpasoukeas](https://github.com/PavlosMpasoukeas)
 
 ## 📊 GitHub Stats
@@ -22,6 +28,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosMpasoukeas&layout=compact&theme=radical)
 
 ## ⚡ Fun Fact
-- 🎮 I enjoy playing retro video games.
+- 🎮 I enjoy playing horror video games.
 - 📚 My favorite book genre is **horror** and **economics**.
 - 🎓 I have  B1 degree in 2 languages English and German  
