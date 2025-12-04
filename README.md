@@ -2,7 +2,7 @@
 - 🎓 I am a Computer Science Engineering student at the **University of Ioannina**.
 - 🏀 I love playing basketball and reading books in my free time.
 - 💡 I am involved in Software Engineering, SQL queries and Database structures.
-- 🌱 I’m currently working on a **Software Engineering project** and a **Compiler Development project**.  
+- 🌱 I’m currently working on **Networks** and **Verilog on Modelsim Altera**.  
 
 
 
